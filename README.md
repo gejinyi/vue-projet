@@ -1,4 +1,4 @@
-# proj
+# my-site
 
 ## Project setup
 ```
